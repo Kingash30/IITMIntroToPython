@@ -1,2 +1,4 @@
 # IITMIntroToPython
-This contains all the codes to the Intro to Python course in term 2 of the foundational course of the B. S. Data Science and Applications.
+This contains all the codes to the IITM Data Science and Applications course.
+
+For foundational level, refer to Foundational branch
